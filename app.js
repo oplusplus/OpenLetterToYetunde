@@ -46,7 +46,7 @@ var love = setInterval(function(){
 },500);
 
 var i = 0;
-var txt1 = "Hi Yetunde...! < I just want to tell you that < 👇🏻";
+var txt1 = "Hi Yetunde...! < I just want to tell you that";
 var speed = 350;
 typeWriter();
 function typeWriter() {
